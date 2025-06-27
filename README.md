@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cartilha Interativa - Auditores do Tesouro vs Fiscais Municipais
 
 ## 📋 Sobre o Projeto
@@ -125,3 +126,7 @@ pnpm run preview --host
 
 *Esta cartilha foi elaborada com base nos dados reais do PLOA 2025 e tem caráter meramente informativo.*
 
+=======
+# cartilha-interativa
+Cartilha Web Auditor vs Fiscal
+>>>>>>> b7f2f341058fec14cc299ef6e67c262000fdb263
